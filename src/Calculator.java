@@ -6,7 +6,7 @@ public class Calculator {
         int j=4;
         int a,s,m,d;
 //        a=i+j;
-        s=i-j;
+//        s=i-j;
         m=i*j;
         d=i/j;
         System.out.println("Addition of numbers is "+a);
