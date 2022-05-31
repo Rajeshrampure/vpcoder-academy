@@ -5,7 +5,7 @@ public class Calculator {
         int i=9;
         int j=4;
         int a,s,m,d;
-        a=i+j;
+//        a=i+j;
         s=i-j;
         m=i*j;
         d=i/j;
